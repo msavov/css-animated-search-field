@@ -1,0 +1,2 @@
+# css-animated-search-field
+CSS Animated Search Field - Initially, it is only shown as the symbolic magnifying glass as icon, but when you hover on it, it quickly extends into view and invites you to enter your search terms. If you click the search bar, it will remain open until you click out of the field. If you move the courser out of the search field without clicking it, however, it will hide as soon as you move the courser out of the search field.
